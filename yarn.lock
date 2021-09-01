@@ -1161,6 +1161,18 @@
   resolved "https://registry.yarnpkg.com/@csstools/normalize.css/-/normalize.css-10.1.0.tgz#f0950bba18819512d42f7197e56c518aa491cf18"
   integrity sha512-ij4wRiunFfaJxjB0BdrYHIH8FxBJpOwNPhhAcunlmPdXudL1WQV1qoP9un6JsEBAgQH+7UXyyjh0g7jTxXK6tg==
 
+"@effect-ts/core@^0.43.6":
+  version "0.43.6"
+  resolved "https://registry.yarnpkg.com/@effect-ts/core/-/core-0.43.6.tgz#c487d032b6935eb4ba97e45796523625a7fb97a8"
+  integrity sha512-vytp4KqcF3FGChIqv0Ept7FBlygERxVvgqy/alxtyr+VX5FOL6bqpH4O54jyZCUZe/1H2uZq1PYz/VW5yfJvTw==
+  dependencies:
+    "@effect-ts/system" "^0.40.6"
+
+"@effect-ts/system@^0.40.6":
+  version "0.40.6"
+  resolved "https://registry.yarnpkg.com/@effect-ts/system/-/system-0.40.6.tgz#d1ec99f2db6b728d161f4ff193ed1f1abce83bc6"
+  integrity sha512-7eLeudJvvjxybryau62vkgqcYEfLmQ5z45d1oIpg5f2H9DxNI0IjeP4SBN2DkLol6Khf80ncamefsIDHEFdxlQ==
+
 "@eslint/eslintrc@^0.3.0":
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-0.3.0.tgz#d736d6963d7003b6514e6324bec9c602ac340318"
